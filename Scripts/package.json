@@ -1,0 +1,20 @@
+{
+  "name": "aa_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.5.0",
+    "@account-abstraction/sdk": "^0.6.0",
+    "accountabstraction": "github:eth-infinitism/account-abstraction",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.4.7",
+    "userop": "^0.3.7"
+  }
+}
